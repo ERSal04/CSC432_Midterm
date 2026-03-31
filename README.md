@@ -152,10 +152,7 @@ Network traffic anomaly detection monitors and identifies unusual patterns in a 
 ## Project Structure
 
 ```
-├── data/
-│   ├── Monday-WorkingHours.pcap_ISCX.csv
-│   ├── Wednesday-workingHours.pcap_ISCX.csv
-│   └── Friday-WorkingHours-Afternoon-DDos.pcap_ISCX.csv
+|
 ├── docs/
 │   └── CSC432_Midterm_Report.pdf
 ├── anomaly_detection.ipynb
