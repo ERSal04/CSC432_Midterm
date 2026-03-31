@@ -156,17 +156,15 @@ Network traffic anomaly detection monitors and identifies unusual patterns in a 
 │   ├── Monday-WorkingHours.pcap_ISCX.csv
 │   ├── Wednesday-workingHours.pcap_ISCX.csv
 │   └── Friday-WorkingHours-Afternoon-DDos.pcap_ISCX.csv
+├── docs/
+│   └── CSC432_Midterm_Report.pdf
 ├── anomaly_detection.ipynb
-├── models/
-│   ├── random_forest_model.pkl
-│   ├── svm_model.pkl
-│   └── scaler.pkl
-└── outputs/
-    ├── feature_distributions.png
-    ├── correlation_heatmap.png
-    ├── confusion_matrices.png
-    ├── feature_importance.png
-    └── model_comparison.png
+└──  models/
+    ├── random_forest_model.pkl
+    ├── svm_model.pkl
+    └── scaler.pkl
+
+
 ```
 
 ---
