@@ -4,7 +4,7 @@
 
 Binary classification of network traffic (BENIGN vs. ATTACK) using Random Forest and SVM trained on the CICIDS2017 dataset.
 
-📄 [Read the full report (PDF)](./CSC432_Midterm_Report.pdf)
+📄 [Read the full report (PDF)](./docs/CSC432_Midterm_Report.pdf)
 
 🗂️ [CICIDS2017 Dataset](https://www.unb.ca/cic/datasets/ids-2017.html)
 
