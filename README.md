@@ -6,6 +6,8 @@ Binary classification of network traffic (BENIGN vs. ATTACK) using Random Forest
 
 📄 [Read the full report (PDF)](./CSC432_Midterm_Report.pdf)
 
+🗂️ [CICIDS2017 Dataset](https://www.unb.ca/cic/datasets/ids-2017.html)
+
 ---
 
 ## Overview
